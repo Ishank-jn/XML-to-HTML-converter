@@ -14,16 +14,14 @@ Navigate to the directory containing xml_to_html.cpp.
 
 Compile the C++ program using the following command:
 
-bash
-1. Genetate executable file
+### 1. OPTION 1: Genetate executable file
 g++ -o xml_to_html xml_to_html.cpp
 
-2. run make
+### 2. OPTION 2: run make to generate executable file
 
-How to Run
+## How to Run
 After compiling the program, run it with the following command:
 
-bash
 Copy code
 ./xml_to_html cd_catalog.xml output.html
 
