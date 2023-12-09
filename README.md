@@ -35,7 +35,8 @@ executable file and compile the code as suggested above.
 
 ## References:
 1. https://gist.github.com/JSchaenzle/2726944
-2. https://copyprogramming.com/howto/how-to-parse-an-xml-file-with-rapidxml
+2. https://linuxhint.com/parse_xml_in_cpp/
+3. https://copyprogramming.com/howto/how-to-parse-an-xml-file-with-rapidxml
 
 ## Author
 This C++ program was authored by Ishank Jain.
